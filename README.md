@@ -1,2 +1,2 @@
 # 2D-Platformer
-# By
+# By Thing 1 and Thing 2
